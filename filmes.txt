@@ -2,3 +2,4 @@
 "outra frase!" segunda
 "git status" ver status
 "git add" criar commit
+"git clone link" copiar o git do github
