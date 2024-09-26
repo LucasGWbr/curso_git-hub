@@ -1,2 +1,4 @@
 "uma frase" primeira 
 "outra frase!" segunda
+"git status" ver status
+"git add" criar commit
