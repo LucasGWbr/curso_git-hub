@@ -1,0 +1,2 @@
+"uma frase" primeira 
+"outra frase!" segunda
